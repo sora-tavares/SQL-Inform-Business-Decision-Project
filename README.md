@@ -1,5 +1,6 @@
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+[![View Certificate](https://img.shields.io/badge/Certificate-View-blue?style=for-the-badge&logo=readthedocs)](Resources/Data_Analysis_SQL_Certificate.pdf)
 
 # 🧠 Data Analysis with SQL: Inform a Business Decision (Guided Project)
 
