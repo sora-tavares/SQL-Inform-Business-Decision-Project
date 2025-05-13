@@ -71,7 +71,7 @@ ORDER BY COUNT(Orders.OrderID) DESC;
 
 ## 📜 Certification
 
-🔗 [View Certificate](Resources/Data Analysis With SQL Certificate.pdf)
+🔗 [View Certificate](Resources/Data_Analysis_SQL_Certificate.pdf)
 
 ---
 
